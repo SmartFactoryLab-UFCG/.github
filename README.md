@@ -2,7 +2,9 @@
 
 We're a collaborative research team dedicated to advancing smart manufacturing through innovative technology. Our work involves cutting-edge research and development in areas like automation, machine learning, Industry 4.0, computer vision and robotics. Out team is based on the Federal University of Campina Grande (Brazil)
 
-![Smart Factory Lab - UFCG](https://github.com/SmartFactoryLab-UFCG/.github/blob/main/smart-factory-logo-v1.png)
+<p align="center">
+  <img width="361" height="366" src="https://github.com/SmartFactoryLab-UFCG/.github/blob/main/smart-factory-logo-v1.png">
+</p>
 
 ## Our Projects
 
@@ -14,9 +16,9 @@ We're a collaborative research team dedicated to advancing smart manufacturing t
 
 ## Our Team
 
-- **[Felipe Nascimento](https://github.com/FelipeH92)**: Robotics Engineer with focus on robot manipulator and computer vision.
+- **[Felipe Nascimento](https://github.com/FelipeH92)**: Robotics Engineer with focus on Robot Manipulation and computer vision.
 - **[Davi Juvencio](https://github.com/davijuvencio)**: PhD Student overseeing the research projects.
-- **[Sabrina Cardoso](https://github.com/sabrinaacardoso)**: Undergraduate Student researching robot manipulator and control.
+- **[Sabrina Cardoso](https://github.com/sabrinaacardoso)**: Undergraduate Student researching Robot Manipulation and Control.
 - **[Beatriz Emiliano](https://github.com/beatriz-emiliano)**: Undergraduate Student researching Computer Vision.
 
 - **[Antônio Marcus](https://www.dee.ufcg.edu.br/in%C3%ADcio/pessoal/docente/antonio-marcus-nogueira-lima)**: Professor at UFCG.
@@ -25,7 +27,7 @@ We're a collaborative research team dedicated to advancing smart manufacturing t
 ## Contact Us
 
 For any queries, please feel free to reach us at [email@example.com](mailto:email@example.com). You can also follow us on [LinkedIn](linkedin-link).
-
+<!-- 
 ## Code of Conduct
 
-We believe in fostering an open and welcoming environment. Please read our [Code of Conduct](link-to-coc) to understand the behavior that is expected from the contributors.
+We believe in fostering an open and welcoming environment. Please read our [Code of Conduct](link-to-coc) to understand the behavior that is expected from the contributors. -->
