@@ -21,7 +21,7 @@ We're a collaborative research team dedicated to advancing smart manufacturing t
 - **[Sabrina Cardoso](https://github.com/sabrinaacardoso)**: Undergraduate Student researching Robot Manipulation and Control.
 - **[Beatriz Emiliano](https://github.com/beatriz-emiliano)**: Undergraduate Student researching Computer Vision.
 
-- **[Antônio Marcus](https://www.dee.ufcg.edu.br/in%C3%ADcio/pessoal/docente/antonio-marcus-nogueira-lima)**: Professor at UFCG.
+- **[Antonio M.N. Lima](https://www.dee.ufcg.edu.br/in%C3%ADcio/pessoal/docente/antonio-marcus-nogueira-lima)**: Professor at UFCG.
 - **[Danilo Freire](https://www.dee.ufcg.edu.br/in%C3%ADcio/pessoal/docente/danilo-freire-de-souza-santos)**: Professor at UFCG.
 
 ## Contact Us
