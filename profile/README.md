@@ -27,6 +27,9 @@ We're a collaborative research team dedicated to advancing smart manufacturing t
 - **[Antonio M.N. Lima](https://www.dee.ufcg.edu.br/in%C3%ADcio/pessoal/docente/antonio-marcus-nogueira-lima)**: Professor at UFCG.
 - **[Danilo Freire](https://www.dee.ufcg.edu.br/in%C3%ADcio/pessoal/docente/danilo-freire-de-souza-santos)**: Professor at UFCG.
 
+## Papers
+
+- **[Synchronizing a collaborative arm’s digital twin in real-time](https://ieeexplore.ieee.org/document/10333055)**
 <!-- 
 ## Code of Conduct
 
