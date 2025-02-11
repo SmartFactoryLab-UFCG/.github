@@ -17,17 +17,16 @@ We're a collaborative research team dedicated to advancing smart manufacturing t
 
 ## Our Team
 
-- **[Felipe Nascimento](https://github.com/FelipeH92)**: Robotics Engineer with focus on Robot Manipulation and computer vision.
-- **[Davi Juvencio](https://github.com/davijuvencio)**: PhD Student overseeing the research projects.
-- **[Sabrina Cardoso](https://github.com/sabrinaacardoso)**: Undergraduate Student researching Robot Manipulation and Control.
-- **[Beatriz Emiliano](https://github.com/beatriz-emiliano)**: Undergraduate Student researching Computer Vision.
+- **[Felipe Nascimento](https://github.com/FelipeH92)**: Robotics Engineer with focus on Robot Manipulation and Computer Vision.
+- **[Sabrina Cardoso](https://github.com/sabrinaacardoso)**: Robotics Engineer researching Robot Manipulation and Control.
+- **[Breno Martins](https://github.com/brenohmartins)**: Undergraduate Student researching Smart Factory Control.
+- **[Dhara Pamplona](https://github.com/dharapamplonaa)**: Undergraduate Student researching Lingua Franca and Real Time Control.
+- **[Marina Batista](https://github.com/maarinaabatista)**: Undergraduate Student researching Computer Vision and Smart Factory Control.
+- **[Mateus Pincho](https://github.com/maarinaabatista)**: Undergraduate Student researching Digital Twins and Robot Manipulation.
 
 - **[Antonio M.N. Lima](https://www.dee.ufcg.edu.br/in%C3%ADcio/pessoal/docente/antonio-marcus-nogueira-lima)**: Professor at UFCG.
 - **[Danilo Freire](https://www.dee.ufcg.edu.br/in%C3%ADcio/pessoal/docente/danilo-freire-de-souza-santos)**: Professor at UFCG.
 
-## Contact Us
-
-For any queries, please feel free to reach us at [email@example.com](mailto:email@example.com). You can also follow us on [LinkedIn](linkedin-link).
 <!-- 
 ## Code of Conduct
 
